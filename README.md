@@ -27,7 +27,7 @@ A partir dos dados do segurado, digitados à mão ou extraídos automaticamente 
 ## Como executar
 
 ```bash
-git clone https://github.com/<seu-usuario>/calculadora-previdenciaria.git
+git clone https://github.com/HadassaSM/calculadora-previdenciaria.git
 cd calculadora-previdenciaria
 python -m venv .venv
 .venv\Scripts\activate        # Windows  (Linux/macOS: source .venv/bin/activate)
