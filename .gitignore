@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editores e ferramentas locais
+.vscode/
+.idea/
+.claude/
+.kiro/
+.code-review-graph/
+.cursorrules
+.windsurfrules
+.mcp.json
+.opencode.json
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+
+# Anotações pessoais (Obsidian)
+previ/
+
+# Arquivos gerados / dados de usuários
+*.pdf
+*.xlsx

@@ -1,5 +1,7 @@
 streamlit
 pandas
 fpdf2
+pdfplumber
 matplotlib
 numpy
+openpyxl
