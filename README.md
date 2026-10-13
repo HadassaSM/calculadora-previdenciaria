@@ -1,5 +1,10 @@
 # 🛡️ Calculadora Previdenciária
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calculadora-previdenciaria.streamlit.app/)
+[![CI](https://github.com/HadassaSM/calculadora-previdenciaria/actions/workflows/ci.yml/badge.svg)](https://github.com/HadassaSM/calculadora-previdenciaria/actions/workflows/ci.yml)
+
+**▶ Acesse online: https://calculadora-previdenciaria.streamlit.app/**
+
 Aplicação web em **Python + Streamlit** para planejamento de aposentadoria no **RGPS (INSS)**, considerando as regras de transição da **Reforma da Previdência (EC 103/2019)**.
 
 A partir dos dados do segurado, digitados à mão ou extraídos automaticamente do **extrato do CNIS em PDF**, o app compara todas as regras de aposentadoria, mostra em que ano cada uma passa a valer e gera um **relatório técnico em PDF**.
